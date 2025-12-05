@@ -1,30 +1,30 @@
 [
   {
-    "path": "../data/2025/geojson/실거래_202505_v2510112201.geojson",
+    "path": "./2025/geojson/실거래_202505_v2510112201.geojson",
     "label": "2025.05"
   },
   {
-    "path": "../data/2025/geojson/실거래_202506_v2510112202.geojson",
+    "path": "./2025/geojson/실거래_202506_v2510112202.geojson",
     "label": "2025.06"
   },
   {
-    "path": "../data/2025/geojson/실거래_202507_v2512051510.geojson",
+    "path": "./2025/geojson/실거래_202507_v2512051510.geojson",
     "label": "2025.07"
   },
   {
-    "path": "../data/2025/geojson/실거래_202508_v2512051511.geojson",
+    "path": "./2025/geojson/실거래_202508_v2512051511.geojson",
     "label": "2025.08"
   },
   {
-    "path": "../data/2025/geojson/실거래_202509_v2510271231.geojson",
+    "path": "./2025/geojson/실거래_202509_v2510271231.geojson",
     "label": "2025.09"
   },
   {
-    "path": "../data/2025/geojson/실거래_202510_v2512051504.geojson",
+    "path": "./2025/geojson/실거래_202510_v2512051504.geojson",
     "label": "2025.10"
   },
   {
-    "path": "../data/2025/geojson/실거래_202511_v2511300150.geojson",
+    "path": "./2025/geojson/실거래_202511_v2511300150.geojson",
     "label": "2025.11"
   }
 ]
